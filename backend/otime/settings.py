@@ -25,7 +25,7 @@ SECRET_KEY = '7sc11=m!ue(h0pbm^c4e^wupl-s)(zxizrmbd08r0i*4k)wm_*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['otime-api2.herokuapp.com', 'localhost:8000']
 
 
 # Application definition
